@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyangshu_hzy" target="blank"><img src="https://img.shields.io/twitter/follow/priyangshu_hzy?logo=twitter&style=for-the-badge" alt="priyangshu_hzy" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps, ML**
+- 🌱 I’m currently learning **DevOps, ML, WebD**
 
 - 💬 Ask me about **Linux**
 
